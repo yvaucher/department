@@ -1,5 +1,5 @@
 -
-  Create a new Issue
+  Create a new analytic account
 -
   !record {model: account.analytic.account, id: analytic1, view: False}:
     name: "One Analytic Account"
